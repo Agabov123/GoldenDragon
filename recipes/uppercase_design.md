@@ -14,8 +14,8 @@ _Include the name of the method, its parameters, return value, and side effects.
 # `extract_upper` extracts uppercase words from a list of words
 uppercase_words = extract_uppercase(mixed_words)
 
-mixed_words: a string (e.g. "hello WORLD")
-uppercase_words: a list of strings (e.g. ["WORLD"])
+ # mixed_words: a string (e.g. "hello WORLD")
+ # uppercase_words: a list of strings (e.g. ["WORLD"])
 
 # The method doesn't print anything or have any other side-effects
 ```
